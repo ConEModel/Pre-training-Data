@@ -1,6 +1,6 @@
 ## Leaf Goal Identification from Event Log Using LogFiBER Model
 ## Prerequisite
- - LogFiBER Model
+ - LogFiBER Model (BERT based Transformer Model trained on [MIMIC clinical dataset](https://www.kaggle.com/drscarlat/mimic2-original-icu) 
  - How to use LogFiBER model to measure semantic textual similarity.
 ## LogFiBER Model
  - [ ] Download LogFiBER Model from [Here](https://www.dropbox.com/s/mzkhns1e7qkh7mf/LogFiBER.zip?dl=1)
