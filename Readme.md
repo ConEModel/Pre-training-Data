@@ -19,7 +19,7 @@
        print(cosine_scores)
    
     ## Other Models
-     - LogBERT
-     - LogRoBERTa
-     - LogPUBER
-     - LogDistillBERT
+     - [LogBERT](https://www.dropbox.com/s/11mj0sexm1tlt70/LogBERT.zip?dl=1)
+     - [LogRoBERTa](https://www.dropbox.com/s/lcrmsyb5ezy6hbl/LogRoBERT.zip?dl=1)
+     - [LogPUBER](https://www.dropbox.com/s/7km89np9bcbm9ak/LogPUBER.zip?dl=1)
+     - [LogDistillBERT](https://www.dropbox.com/s/ezfbpkj62lsxm62/LogDistill.zip?dl=1)
