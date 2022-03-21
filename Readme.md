@@ -18,4 +18,8 @@
        cosine_scores = util.pytorch_cos_sim(embeddings1, embeddings2)
        print(cosine_scores)
    
-    
+    ## Other Models
+     - LogBERT
+     - LogRoBERTa
+     - LogPUBER
+     - LogDistillBERT
